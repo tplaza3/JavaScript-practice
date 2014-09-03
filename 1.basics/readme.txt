@@ -69,6 +69,7 @@ Conditionals and Boolean Logic
 1. Know how to use if, else if, and else statements to create branching boolean logic trees.
 
 2. Write a program which prompts the user for a number, outputs "Valid" if the number is positive, or "Invalid" if the number is 		less than or equal to zero.
+
 3. Write a program which prompts the user for a number and outputs "Valid" if the number is between 1 and 10 (inclusive) and   	 		"Invalid" otherwise.
 
 4. Write a program which prompts the user for an integer and outputs whether that integer is even or odd. (Hint: even numbers have 		a remainder of 0 when divided by 2; odd numbers have a remainder of 1 when divided by 2.)
@@ -77,11 +78,11 @@ Conditionals and Boolean Logic
 
 6. Prompt the user for a positive odd number. Write a program that uses a nested if-statement to determine if the user's input 		fulfills the conditions. Now write one that uses the logical operators (&& and/or ||) to do the same test, but in less time.
 
-7. Optional: Write a program which asks the user for 3 numbers and sorts them from least to greatest using nothing but if, elsif 		and else statements. Output the result.
+7. Optional: Write a program which asks the user for 3 numbers and sorts them from least to greatest using nothing but if, elsif 		and else statements. Output the result. DNC
 
-8. Optional: Write a program which prompts the user for an all-caps string and which then checks to see if that string is indeed 		all-caps.
+8. Optional: Write a program which prompts the user for an all-caps string and which then checks to see if that string is indeed 		all-caps. DNC
 
-9. Optional: Using if, else if, and else blocks, write a program which allows two users to each input their moves in "Rock, Paper, 		Scissors" and which determines the winner (or if a tie occurred).
+9. Optional: Using if, else if, and else blocks, write a program which allows two users to each input their moves in "Rock, Paper, 		Scissors" and which determines the winner (or if a tie occurred). DNC
 
 
 
