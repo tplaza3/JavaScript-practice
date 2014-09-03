@@ -111,7 +111,9 @@ Array Basics
 
 1. Create an array that holds a variety of data (strings, integers, floats, booleans). Print that array to the screen.
 
-2. Create an array. Prompt the user for an index, then print the array element at that index. What happens if the user tries to access a non-existent array element? What happens if the user tries to use a floating point number or a word as the index?
+2. Create an array. Prompt the user for an index, then print the array element at that index. What happens if the user tries to 	access a non-existent array element? What happens if the user tries to use a floating point number or a word as the index?
+
+ 	Undefined gets returned
 
 3. Learn how to use the .length to determine how many elements are in an array.
 
@@ -130,7 +132,9 @@ Objects
 	The tutorial hasn't covered this yet, but you can handle it. "Objects" in JavaScript behave just like "Hashes" in Ruby, so you 	can apply everything you know about hashes here; JavaScript just has a different name for this data structure than Ruby does. 	(Annoying, isn't it?)
 
 
-1. What are objects [in JavaScript] used for? Why might you use an object?
+1. What are objects [in JavaScript] used for? Why might you use an object? 
+
+		They are hashes!
 
 2. Learn how to create an object that contains at least one key/value pair. What is the difference between a key and a value? What    types of data can be used as keys? Can you have duplicate keys in an object? What about duplicate values? What types of data 		can be used as values? Given a key, how do you access the corresponding value in the object? Given a value, how do you look up 		the keys that have that value? How would you add additional keys to the object?
 
