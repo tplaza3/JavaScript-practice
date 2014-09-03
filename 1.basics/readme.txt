@@ -94,13 +94,13 @@ Loops and Repetition Structures
 
 3. Write a program that counts from 1 to 100 by 2's. Now make it work by 3's. Now have it count from 1 to 100 by any (positive) 		increment the user desires.
 
-4. Write a program which prompts the user for a positive odd number, and which keeps prompting the user until they successfully 		input such a number.
+4. Write a program which prompts the user for a positive odd number, and which keeps prompting the user until they successfully 		input such a number. //I am not sure this is working
 
-5. Write a program which, for any positive integer n, figures out n factorial. For example, 7 factorial is 7 * 6 * 5 * 4 * 3 * 2 * 		1.
+5. Write a program which, for any positive integer n, figures out n factorial. For example, 7 factorial is 7 * 6 * 5 * 4 * 3 * 2 * 		1.//Not the best
 
-6. Write a program which asks the user to enter a "password" (hardcoded in the code itself). After three unsuccessful tries, the 		program should exit.
+6. Write a program which asks the user to enter a "password" (hardcoded in the code itself). After three unsuccessful tries, the 		program should exit. // DNC
 
-7. Write a program which prompts the user for a string of text and then prints that string out vertically, i.e. one character per 		line.
+7. Write a program which prompts the user for a string of text and then prints that string out vertically, i.e. one character per 		line. //DNC
 
 8. Optional: Use a nested loop (loops inside of loops) structure to create a multiplication table.
 
